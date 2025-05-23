@@ -1,5 +1,28 @@
 # @backstage/plugin-scaffolder-backend-module-bitbucket-server
 
+## 0.2.9
+
+### Patch Changes
+
+- 72d019d: Removed various typos
+- Updated dependencies
+  - @backstage/integration@1.17.0
+  - @backstage/backend-plugin-api@1.3.1
+  - @backstage/plugin-scaffolder-node@0.8.2
+  - @backstage/config@1.3.2
+  - @backstage/errors@1.2.7
+
+## 0.2.9-next.3
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/integration@1.17.0-next.3
+  - @backstage/plugin-scaffolder-node@0.8.2-next.3
+  - @backstage/backend-plugin-api@1.3.1-next.2
+  - @backstage/config@1.3.2
+  - @backstage/errors@1.2.7
+
 ## 0.2.9-next.2
 
 ### Patch Changes
